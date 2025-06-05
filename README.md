@@ -25,7 +25,7 @@ A simple, interactive number guessing game built with Python. The program random
 4. Run the script:
 
 ```bash
-python guess_game.py
+python guessgame.py
 
 I am thinking of a number between 1 and 20
 Take a guess... 10
